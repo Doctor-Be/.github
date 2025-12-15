@@ -328,10 +328,10 @@ streamlit run frontend/frontend.py
 
 ## 👥 팀원
 
-| 이름 | 역할 | 이메일 |
-|:---:|:---:|:---:|
-| 양다원 | Backend, AI |
-| 서윤혜 | Backend, Data |
+| 이름 | 역할 |
+|:---:|:---:|
+| 양다원 | Frontend, Backend, Data |
+| 서윤혜 | Backend, Data, AI |
 
 
 ---
