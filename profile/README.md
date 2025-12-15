@@ -1,7 +1,7 @@
 # 🏥 Dr.B - AI 기반 질병 별 전문의 추천 시스템
 
 
-[프로젝트 소개](#-프로젝트-소개) • [주요 기능](#-주요-기능) • [기술 스택](#-기술-스택) • [시연](#-시연)
+[프로젝트 소개](#-프로젝트-소개) • [주요 기능](#-주요-기능) • [기술 스택](#-기술-스택) • [주요 화면](#-주요-화면)
 
 
 ---
@@ -290,11 +290,7 @@ streamlit run frontend/frontend.py
 
 ---
 
-## 📺 시연
-
-시연 영상 및 스크린샷은 [발표 자료](docs/presentation.pdf)를 참고하세요.
-
-### 주요 화면
+## 주요 화면
 
 #### 메인 화면
 - 증상 입력창
@@ -351,6 +347,7 @@ streamlit run frontend/frontend.py
 - [AWS Bedrock Documentation](https://docs.aws.amazon.com/bedrock/)
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [프로젝트 발표 자료](https://drive.google.com/file/d/1I7sEXhbksiwm7Ypd0qgPU8Axu4XwMEdr/view?usp=sharing)
+- [Dr.B.pdf](https://github.com/user-attachments/files/24169100/Dr.B.pdf)
 
 ---
 
